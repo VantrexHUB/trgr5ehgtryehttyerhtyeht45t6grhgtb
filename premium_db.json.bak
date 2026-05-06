@@ -1,0 +1,914 @@
+{
+  "admin_id": 8134424193,
+  "daily_usage": {
+    "5120880273": {
+      "count": 240,
+      "date": "2026-03-12"
+    },
+    "5428095527": {
+      "count": 6000,
+      "date": "2026-03-12"
+    },
+    "8134424193": {
+      "count": 3955,
+      "date": "2026-03-28"
+    },
+    "8305504768": {
+      "count": 844,
+      "date": "2026-03-12"
+    },
+    "8424201513": {
+      "count": 917,
+      "date": "2026-03-12"
+    }
+  },
+  "keys": {
+    "HMB-06Q2CBB2PEBWNS9HO9HI": {
+      "created_by": "admin",
+      "duration_days": 0.041666666666666664,
+      "expiry": "2026-03-31T00:40:38.739102",
+      "generated_at": "2026-03-30T23:40:38.739135",
+      "redeemed_at": "2026-03-30T23:40:46.905444",
+      "redeemed_by": 8134424193
+    },
+    "HMB-0DAFUW7A8SZ0G4JB6D0L": {
+      "created_by": "admin",
+      "duration_days": 0.041666666666666664,
+      "expiry": "2026-03-30T11:16:58.187183",
+      "generated_at": "2026-03-30T10:16:58.187193",
+      "redeemed_at": "2026-03-30T10:17:04.758258",
+      "redeemed_by": 8134424193
+    },
+    "HMB-0YMVBEM0S0PR": {
+      "created_at": "2026-03-12T20:38:42.277379",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": true,
+      "used_at": "2026-03-12T21:42:04.802793",
+      "used_by": 8305504768
+    },
+    "HMB-2OUG6LE5JEMYN85T5N0L": {
+      "created_by": "admin",
+      "duration_days": 30.0,
+      "expiry": "2026-05-04T09:39:57.280404",
+      "generated_at": "2026-04-04T09:39:57.280427",
+      "redeemed_at": null,
+      "redeemed_by": null
+    },
+    "HMB-3RSRX1AZNXRG": {
+      "created_at": "2026-03-12T19:55:28.222893",
+      "created_by": 8134424193,
+      "days": 10,
+      "is_used": true,
+      "used_at": "2026-03-12T19:55:33.812307",
+      "used_by": 8134424193
+    },
+    "HMB-6CMQ73NFA87Q4FXBOWQG": {
+      "created_by": "admin",
+      "duration_days": 0.041666666666666664,
+      "expiry": "2026-03-30T12:25:07.138932",
+      "generated_at": "2026-03-30T11:25:07.138948",
+      "redeemed_at": "2026-03-30T11:25:13.701382",
+      "redeemed_by": 8134424193
+    },
+    "HMB-6VWNR50H0VD3": {
+      "created_at": "2026-03-12T21:42:40.411562",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": false,
+      "used_at": null,
+      "used_by": null
+    },
+    "HMB-6WJXN5LONS7Q": {
+      "created_at": "2026-03-12T20:38:42.181165",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": true,
+      "used_at": "2026-03-12T20:39:20.287425",
+      "used_by": 5120880273
+    },
+    "HMB-6XF6U1D107C1M98QZKCU": {
+      "created_by": "admin",
+      "duration_days": 30.0,
+      "expiry": "2026-05-04T06:35:12.991852",
+      "generated_at": "2026-04-04T06:35:12.991865",
+      "redeemed_at": "2026-04-04T06:35:43.014615",
+      "redeemed_by": 8433023044
+    },
+    "HMB-7QYML6GZB1XH": {
+      "created_at": "2026-03-12T21:42:40.413618",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": false,
+      "used_at": null,
+      "used_by": null
+    },
+    "HMB-B9UFMVT73D7P": {
+      "created_at": "2026-03-12T20:38:42.187237",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": true,
+      "used_at": "2026-03-12T20:39:11.350245",
+      "used_by": 8462924132
+    },
+    "HMB-E7KDRBDZ4C943I34RWSX": {
+      "created_by": "admin",
+      "duration_days": 0.041666666666666664,
+      "expiry": "2026-03-30T13:48:36.758418",
+      "generated_at": "2026-03-30T12:48:36.758433",
+      "redeemed_at": "2026-03-30T12:48:39.079955",
+      "redeemed_by": 8134424193
+    },
+    "HMB-E8BY555EYSRW": {
+      "created_at": "2026-03-12T20:38:42.190443",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": false,
+      "used_at": null,
+      "used_by": null
+    },
+    "HMB-FIN1WF9V4DQX1XJSLRX0": {
+      "created_by": "admin",
+      "duration_days": 0.041666666666666664,
+      "expiry": "2026-03-30T13:48:34.407384",
+      "generated_at": "2026-03-30T12:48:34.407432",
+      "redeemed_at": null,
+      "redeemed_by": null
+    },
+    "HMB-G05WDOVFDL1N": {
+      "created_at": "2026-03-12T20:38:42.180591",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": true,
+      "used_at": "2026-03-12T21:42:07.839045",
+      "used_by": 6698049455
+    },
+    "HMB-HRNT17IWSDL4": {
+      "created_at": "2026-03-12T21:42:40.420234",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": true,
+      "used_at": "2026-03-12T21:44:11.322948",
+      "used_by": 7089846883
+    },
+    "HMB-JRACQENUUCJ5VKYHD2BW": {
+      "created_by": "admin",
+      "duration_days": 0.041666666666666664,
+      "expiry": "2026-04-04T10:51:22.837749",
+      "generated_at": "2026-04-04T09:51:22.837802",
+      "redeemed_at": "2026-04-04T09:51:27.429564",
+      "redeemed_by": 8134424193
+    },
+    "HMB-L5SLEQDARPLJ": {
+      "created_at": "2026-03-12T21:42:40.415099",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": false,
+      "used_at": null,
+      "used_by": null
+    },
+    "HMB-LJI7QFG4UV35": {
+      "created_at": "2026-03-12T20:38:42.185491",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": true,
+      "used_at": "2026-03-12T20:40:35.258046",
+      "used_by": 7923912996
+    },
+    "HMB-MSVNVA6J6VP6": {
+      "created_at": "2026-03-12T21:42:40.419116",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": false,
+      "used_at": null,
+      "used_by": null
+    },
+    "HMB-N9X8250SO3W50IS05RA8": {
+      "created_by": "admin",
+      "duration_days": 100.0,
+      "expiry": "2026-07-12T11:45:04.844074",
+      "generated_at": "2026-04-03T11:45:04.844086",
+      "redeemed_at": "2026-04-03T11:45:53.039402",
+      "redeemed_by": 7681108461
+    },
+    "HMB-OJ0CMCUPCNHB": {
+      "created_at": "2026-03-12T20:38:42.194569",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": false,
+      "used_at": null,
+      "used_by": null
+    },
+    "HMB-PZDBC5OF05GH62JTPXFL": {
+      "created_by": "admin",
+      "duration_days": 0.041666666666666664,
+      "expiry": "2026-04-03T12:46:56.063145",
+      "generated_at": "2026-04-03T11:46:56.063160",
+      "redeemed_at": "2026-04-03T11:47:04.047938",
+      "redeemed_by": 6653029417
+    },
+    "HMB-Q4ZQWRK8XNHO": {
+      "created_at": "2026-03-12T20:38:42.186437",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": true,
+      "used_at": "2026-03-12T20:40:38.247672",
+      "used_by": 8753545602
+    },
+    "HMB-RZQ7HV8RYKPZ88JF1BOZ": {
+      "created_by": "admin",
+      "duration_days": 3.0,
+      "expiry": "2026-04-08T01:48:59.187283",
+      "generated_at": "2026-04-05T01:48:59.187293",
+      "redeemed_at": "2026-04-05T01:51:40.391090",
+      "redeemed_by": 8281397757
+    },
+    "HMB-UGR7XFIA2NVQAWAPX70K": {
+      "created_by": "admin",
+      "duration_days": 30.0,
+      "expiry": "2026-05-04T07:49:10.014355",
+      "generated_at": "2026-04-04T07:49:10.014367",
+      "redeemed_at": "2026-04-04T07:55:24.592019",
+      "redeemed_by": 8336484011
+    },
+    "HMB-VHEFQD64FBFH": {
+      "created_at": "2026-03-12T20:38:42.275965",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": true,
+      "used_at": "2026-03-12T20:40:05.099100",
+      "used_by": 6438852566
+    },
+    "HMB-XB2XI9S1NCLG7XBZMFVL": {
+      "created_by": "admin",
+      "duration_days": 0.041666666666666664,
+      "expiry": "2026-04-05T02:37:49.540819",
+      "generated_at": "2026-04-05T01:37:49.540833",
+      "redeemed_at": "2026-04-05T01:39:47.997697",
+      "redeemed_by": 6892108222
+    },
+    "HMB-YJLJWR34UMYW": {
+      "created_at": "2026-03-12T20:38:42.184656",
+      "created_by": 8134424193,
+      "days": 1,
+      "is_used": true,
+      "used_at": "2026-03-12T20:39:10.633196",
+      "used_by": 5428095527
+    },
+    "HMB-YOR2LMMLVHLSS00INF3D": {
+      "created_by": "admin",
+      "duration_days": 30.0,
+      "expiry": "2026-05-04T09:51:37.767984",
+      "generated_at": "2026-04-04T09:51:37.768001",
+      "redeemed_at": "2026-04-04T09:52:09.387074",
+      "redeemed_by": 8045183113
+    }
+  },
+  "settings": {
+    "default_key_length": 20,
+    "max_bulk": 100
+  },
+  "stats": {
+    "redeemed": 16,
+    "total_checked": 13930,
+    "total_hits": 114,
+    "total_keys": 29
+  },
+  "user_info": {
+    "1094229216": {
+      "first_name": "Thomas paladino",
+      "last_name": "",
+      "last_seen": "2026-03-12T20:39:31.145424",
+      "username": "thomaspaladinoo"
+    },
+    "5120880273": {
+      "first_name": "Lord",
+      "last_name": "Of Nord",
+      "last_seen": "2026-03-14T00:43:04.835656",
+      "username": "Lor_d_off"
+    },
+    "5428095527": {
+      "first_name": "Khairo\ud83d\udc3e",
+      "last_name": "FELEXCC.CLUB",
+      "last_seen": "2026-03-12T21:42:18.085938",
+      "username": "KHAIRODJR21"
+    },
+    "6226675622": {
+      "first_name": "\u23e4\u035f\u035e Raven.Js",
+      "last_name": "",
+      "last_seen": "2026-03-12T22:03:01.742550",
+      "username": "Raven07X"
+    },
+    "6438852566": {
+      "first_name": "\ud83c\uddf7\ud83c\uddfa",
+      "last_name": "",
+      "last_seen": "2026-03-12T21:42:15.442829",
+      "username": "xDarkLogicx"
+    },
+    "6698049455": {
+      "first_name": "Ghost",
+      "last_name": "\ud83d\udcb3\ud83c\udccf",
+      "last_seen": "2026-03-12T21:42:06.829440",
+      "username": "gh0stn0t"
+    },
+    "6718144567": {
+      "first_name": "Andrew",
+      "last_name": "vegar",
+      "last_seen": "2026-03-13T13:20:26.366752",
+      "username": "Andrewvegar11"
+    },
+    "7089846883": {
+      "first_name": "Lywax",
+      "last_name": "",
+      "last_seen": "2026-03-12T22:03:05.766942",
+      "username": "Lywax"
+    },
+    "7135004421": {
+      "first_name": "\uff20\ud835\udcb2\ud835\udcb6\ud835\udcc7\ud835\udcb2\u2134\ud835\udcca\ud835\udcc3\ud835\udcb9",
+      "last_name": "",
+      "last_seen": "2026-03-12T21:42:01.533486",
+      "username": "WarWound"
+    },
+    "7547509192": {
+      "first_name": "zaxkss",
+      "last_name": "",
+      "last_seen": "2026-03-12T19:54:15.815607",
+      "username": "zaxkss"
+    },
+    "7633770382": {
+      "first_name": "Layura",
+      "last_name": "",
+      "last_seen": "2026-03-13T06:14:04.386383",
+      "username": "kahrola"
+    },
+    "7720836084": {
+      "first_name": "Nick.one_\u2122\ufe0f @raika",
+      "last_name": "",
+      "last_seen": "2026-03-13T11:57:49.822214",
+      "username": "Nickone_16"
+    },
+    "7923912996": {
+      "first_name": "Grinch",
+      "last_name": "",
+      "last_seen": "2026-03-12T20:42:29.816580",
+      "username": "grinccch3"
+    },
+    "8134424193": {
+      "first_name": "Aznayeem",
+      "last_name": "",
+      "last_seen": "2026-03-12T21:42:41.097357",
+      "username": "NoMan8x8"
+    },
+    "8233364270": {
+      "first_name": "Akane",
+      "last_name": "",
+      "last_seen": "2026-03-16T22:22:04.531908",
+      "username": "hywhd"
+    },
+    "8305504768": {
+      "first_name": "Dan",
+      "last_name": "",
+      "last_seen": "2026-03-12T21:42:15.098361",
+      "username": "User"
+    },
+    "8424201513": {
+      "first_name": "jtuil",
+      "last_name": "",
+      "last_seen": "2026-03-12T22:12:57.189489",
+      "username": "jtuil5275"
+    },
+    "8462924132": {
+      "first_name": "Can",
+      "last_name": "",
+      "last_seen": "2026-03-12T21:43:05.731807",
+      "username": "canbrtc"
+    },
+    "8753545602": {
+      "first_name": "Lina",
+      "last_name": "",
+      "last_seen": "2026-03-12T21:42:08.517325",
+      "username": "lanouch_a"
+    }
+  },
+  "user_subscriptions": {
+    "1094229216": {
+      "subscriptions": [],
+      "username": "thomaspaladinoo"
+    },
+    "5120880273": {
+      "subscriptions": [
+        {
+          "days": 1,
+          "expires_at": "2026-03-13T20:39:20.287425",
+          "is_active": true,
+          "key": "HMB-6WJXN5LONS7Q",
+          "redeemed_at": "2026-03-12T20:39:20.287425"
+        }
+      ],
+      "username": "Lor_d_off"
+    },
+    "5428095527": {
+      "subscriptions": [
+        {
+          "days": 1,
+          "expires_at": "2026-03-13T20:39:10.633196",
+          "is_active": true,
+          "key": "HMB-YJLJWR34UMYW",
+          "redeemed_at": "2026-03-12T20:39:10.633196"
+        }
+      ],
+      "username": "KHAIRODJR21"
+    },
+    "6226675622": {
+      "subscriptions": [],
+      "username": "Raven07X"
+    },
+    "6438852566": {
+      "subscriptions": [
+        {
+          "days": 1,
+          "expires_at": "2026-03-13T20:40:05.099100",
+          "is_active": true,
+          "key": "HMB-VHEFQD64FBFH",
+          "redeemed_at": "2026-03-12T20:40:05.099100"
+        }
+      ],
+      "username": "xDarkLogicx"
+    },
+    "6698049455": {
+      "subscriptions": [
+        {
+          "days": 1,
+          "expires_at": "2026-03-13T21:42:07.839045",
+          "is_active": true,
+          "key": "HMB-G05WDOVFDL1N",
+          "redeemed_at": "2026-03-12T21:42:07.839045"
+        }
+      ],
+      "username": "gh0stn0t"
+    },
+    "6718144567": {
+      "subscriptions": [],
+      "username": "Andrewvegar11"
+    },
+    "7089846883": {
+      "subscriptions": [
+        {
+          "days": 1,
+          "expires_at": "2026-03-13T21:44:11.322948",
+          "is_active": true,
+          "key": "HMB-HRNT17IWSDL4",
+          "redeemed_at": "2026-03-12T21:44:11.322948"
+        }
+      ],
+      "username": "Lywax"
+    },
+    "7135004421": {
+      "subscriptions": [],
+      "username": "WarWound"
+    },
+    "7547509192": {
+      "subscriptions": [],
+      "username": "zaxkss"
+    },
+    "7633770382": {
+      "subscriptions": [],
+      "username": "kahrola"
+    },
+    "7720836084": {
+      "subscriptions": [],
+      "username": "Nickone_16"
+    },
+    "7923912996": {
+      "subscriptions": [
+        {
+          "days": 1,
+          "expires_at": "2026-03-13T20:40:35.258046",
+          "is_active": true,
+          "key": "HMB-LJI7QFG4UV35",
+          "redeemed_at": "2026-03-12T20:40:35.258046"
+        }
+      ],
+      "username": "grinccch3"
+    },
+    "8134424193": {
+      "subscriptions": [
+        {
+          "days": 10,
+          "expires_at": "2026-03-22T19:55:33.812307",
+          "is_active": true,
+          "key": "HMB-3RSRX1AZNXRG",
+          "redeemed_at": "2026-03-12T19:55:33.812307"
+        }
+      ],
+      "username": "NoMan8x8"
+    },
+    "8233364270": {
+      "subscriptions": [],
+      "username": "hywhd"
+    },
+    "8305504768": {
+      "subscriptions": [
+        {
+          "days": 1,
+          "expires_at": "2026-03-13T21:42:04.802793",
+          "is_active": true,
+          "key": "HMB-0YMVBEM0S0PR",
+          "redeemed_at": "2026-03-12T21:42:04.802793"
+        }
+      ],
+      "username": "User"
+    },
+    "8424201513": {
+      "subscriptions": [],
+      "username": "jtuil5275"
+    },
+    "8462924132": {
+      "subscriptions": [
+        {
+          "days": 1,
+          "expires_at": "2026-03-13T20:39:11.350245",
+          "is_active": true,
+          "key": "HMB-B9UFMVT73D7P",
+          "redeemed_at": "2026-03-12T20:39:11.350245"
+        }
+      ],
+      "username": "canbrtc"
+    },
+    "8753545602": {
+      "subscriptions": [
+        {
+          "days": 1,
+          "expires_at": "2026-03-13T20:40:38.247672",
+          "is_active": true,
+          "key": "HMB-Q4ZQWRK8XNHO",
+          "redeemed_at": "2026-03-12T20:40:38.247672"
+        }
+      ],
+      "username": "lanouch_a"
+    }
+  },
+  "users": {
+    "1094229216": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "Thomas paladino",
+      "joined_at": "2026-03-12T20:39:31.145424",
+      "premium_until": null,
+      "redeemed_keys": [],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "thomaspaladinoo"
+    },
+    "5120880273": {
+      "daily_reset": "2026-03-12",
+      "daily_used": 240,
+      "first_name": "Lord",
+      "joined_at": "2026-03-14T00:43:04.835656",
+      "premium_until": "2026-03-13T20:39:20.287425",
+      "redeemed_keys": [
+        "HMB-6WJXN5LONS7Q"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "Lor_d_off"
+    },
+    "5428095527": {
+      "daily_reset": "2026-03-12",
+      "daily_used": 6000,
+      "first_name": "Khairo\ud83d\udc3e",
+      "joined_at": "2026-03-12T21:42:18.085938",
+      "premium_until": "2026-03-13T20:39:10.633196",
+      "redeemed_keys": [
+        "HMB-YJLJWR34UMYW"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "KHAIRODJR21"
+    },
+    "6226675622": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "\u23e4\u035f\u035e Raven.Js",
+      "joined_at": "2026-03-12T22:03:01.742550",
+      "premium_until": null,
+      "redeemed_keys": [],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "Raven07X"
+    },
+    "6438852566": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "\ud83c\uddf7\ud83c\uddfa",
+      "joined_at": "2026-03-12T21:42:15.442829",
+      "premium_until": "2026-03-13T20:40:05.099100",
+      "redeemed_keys": [
+        "HMB-VHEFQD64FBFH"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "xDarkLogicx"
+    },
+    "6653029417": {
+      "daily_reset": "2026-04-03",
+      "daily_used": 0,
+      "joined_at": "2026-04-03T11:44:14.317348",
+      "premium_until": "2525-12-03T12:44:14.317348",
+      "redeemed_keys": [
+        "HMB-PZDBC5OF05GH62JTPXFL"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      }
+    },
+    "6698049455": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "Ghost",
+      "joined_at": "2026-03-12T21:42:06.829440",
+      "premium_until": "2026-03-13T21:42:07.839045",
+      "redeemed_keys": [
+        "HMB-G05WDOVFDL1N"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "gh0stn0t"
+    },
+    "6718144567": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "Andrew",
+      "joined_at": "2026-03-13T13:20:26.366752",
+      "premium_until": null,
+      "redeemed_keys": [],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "Andrewvegar11"
+    },
+    "6892108222": {
+      "daily_reset": "2026-04-05",
+      "daily_used": 0,
+      "joined_at": "2026-04-05T01:39:47.997697",
+      "premium_until": "2026-04-05T02:37:49.540819",
+      "redeemed_keys": [
+        "HMB-XB2XI9S1NCLG7XBZMFVL"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      }
+    },
+    "7089846883": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "Lywax",
+      "joined_at": "2026-03-12T22:03:05.766942",
+      "premium_until": "2026-03-13T21:44:11.322948",
+      "redeemed_keys": [
+        "HMB-HRNT17IWSDL4"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "Lywax"
+    },
+    "7135004421": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "\uff20\ud835\udcb2\ud835\udcb6\ud835\udcc7\ud835\udcb2\u2134\ud835\udcca\ud835\udcc3\ud835\udcb9",
+      "joined_at": "2026-03-12T21:42:01.533486",
+      "premium_until": null,
+      "redeemed_keys": [],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "WarWound"
+    },
+    "7547509192": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "zaxkss",
+      "joined_at": "2026-03-12T19:54:15.815607",
+      "premium_until": null,
+      "redeemed_keys": [],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "zaxkss"
+    },
+    "7633770382": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "Layura",
+      "joined_at": "2026-03-13T06:14:04.386383",
+      "premium_until": null,
+      "redeemed_keys": [],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "kahrola"
+    },
+    "7681108461": {
+      "daily_reset": "2026-04-03",
+      "daily_used": 0,
+      "joined_at": "2026-04-03T11:45:53.039402",
+      "premium_until": "2026-07-12T11:45:04.844074",
+      "redeemed_keys": [
+        "HMB-N9X8250SO3W50IS05RA8"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      }
+    },
+    "7720836084": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "Nick.one_\u2122\ufe0f @raika",
+      "joined_at": "2026-03-13T11:57:49.822214",
+      "premium_until": null,
+      "redeemed_keys": [],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "Nickone_16"
+    },
+    "7923912996": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "Grinch",
+      "joined_at": "2026-03-12T20:42:29.816580",
+      "premium_until": "2026-03-13T20:40:35.258046",
+      "redeemed_keys": [
+        "HMB-LJI7QFG4UV35"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "grinccch3"
+    },
+    "8045183113": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "joined_at": "2026-04-04T09:52:09.387074",
+      "premium_until": "2026-05-04T09:51:37.767984",
+      "redeemed_keys": [
+        "HMB-YOR2LMMLVHLSS00INF3D"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      }
+    },
+    "8134424193": {
+      "daily_reset": "2026-03-28",
+      "daily_used": 3955,
+      "joined_at": "2026-04-04T00:22:20.817744",
+      "premium_until": "2026-04-04T10:51:22.837749",
+      "redeemed_keys": [
+        "HMB-0DAFUW7A8SZ0G4JB6D0L",
+        "HMB-6CMQ73NFA87Q4FXBOWQG",
+        "HMB-E7KDRBDZ4C943I34RWSX",
+        "HMB-06Q2CBB2PEBWNS9HO9HI",
+        "HMB-JRACQENUUCJ5VKYHD2BW"
+      ],
+      "stats": {
+        "total_checked": 13930,
+        "total_hits": 114
+      },
+      "username": "NoMan8x8"
+    },
+    "8233364270": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "Akane",
+      "joined_at": "2026-03-16T22:22:04.531908",
+      "premium_until": null,
+      "redeemed_keys": [],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "hywhd"
+    },
+    "8281397757": {
+      "daily_reset": "2026-04-05",
+      "daily_used": 0,
+      "joined_at": "2026-04-05T01:51:40.391090",
+      "premium_until": "2026-04-08T01:48:59.187283",
+      "redeemed_keys": [
+        "HMB-RZQ7HV8RYKPZ88JF1BOZ"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      }
+    },
+    "8305504768": {
+      "daily_reset": "2026-03-12",
+      "daily_used": 844,
+      "first_name": "Dan",
+      "joined_at": "2026-03-12T21:42:15.098361",
+      "premium_until": "2026-03-13T21:42:04.802793",
+      "redeemed_keys": [
+        "HMB-0YMVBEM0S0PR"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "User"
+    },
+    "8336484011": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "joined_at": "2026-04-04T07:55:24.592019",
+      "premium_until": "2026-05-04T07:49:10.014355",
+      "redeemed_keys": [
+        "HMB-UGR7XFIA2NVQAWAPX70K"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      }
+    },
+    "8424201513": {
+      "daily_reset": "2026-03-12",
+      "daily_used": 917,
+      "first_name": "jtuil",
+      "joined_at": "2026-03-12T22:12:57.189489",
+      "premium_until": null,
+      "redeemed_keys": [],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "jtuil5275"
+    },
+    "8433023044": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "joined_at": "2026-04-04T06:35:43.014615",
+      "premium_until": "2026-05-04T06:35:12.991852",
+      "redeemed_keys": [
+        "HMB-6XF6U1D107C1M98QZKCU"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      }
+    },
+    "8462924132": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "Can",
+      "joined_at": "2026-03-12T21:43:05.731807",
+      "premium_until": "2026-03-13T20:39:11.350245",
+      "redeemed_keys": [
+        "HMB-B9UFMVT73D7P"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "canbrtc"
+    },
+    "8753545602": {
+      "daily_reset": "2026-04-04",
+      "daily_used": 0,
+      "first_name": "Lina",
+      "joined_at": "2026-03-12T21:42:08.517325",
+      "premium_until": "2026-03-13T20:40:38.247672",
+      "redeemed_keys": [
+        "HMB-Q4ZQWRK8XNHO"
+      ],
+      "stats": {
+        "total_checked": 0,
+        "total_hits": 0
+      },
+      "username": "lanouch_a"
+    }
+  }
+}

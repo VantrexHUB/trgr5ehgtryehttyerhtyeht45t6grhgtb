@@ -1,0 +1,273 @@
+{
+  "combos": {
+    "netflix": {
+      "stock": 0,
+      "price_per_1k": 10.0,
+      "quality_rating": 4.9,
+      "trending": true,
+      "limited_edition": false,
+      "description": "Premium Netflix Accounts",
+      "category": "Streaming Services",
+      "icon": "\ud83c\udfac"
+    },
+    "spotify": {
+      "stock": 0,
+      "price_per_1k": 8.5,
+      "quality_rating": 4.8,
+      "trending": true,
+      "limited_edition": false,
+      "description": "Spotify Family Combos",
+      "category": "Streaming Services",
+      "icon": "\ud83c\udfb5"
+    },
+    "disney": {
+      "stock": 0,
+      "price_per_1k": 9.0,
+      "quality_rating": 4.7,
+      "trending": true,
+      "limited_edition": false,
+      "description": "Disney+ Bundle Combos",
+      "category": "Streaming Services",
+      "icon": "\ud83c\udff0"
+    },
+    "xbox": {
+      "stock": 0,
+      "price_per_1k": 11.0,
+      "quality_rating": 5.0,
+      "trending": true,
+      "limited_edition": false,
+      "description": "Xbox Game Pass Ultimate",
+      "category": "Gaming",
+      "icon": "\ud83c\udfae"
+    },
+    "playstation": {
+      "stock": 0,
+      "price_per_1k": 10.5,
+      "quality_rating": 4.9,
+      "trending": true,
+      "limited_edition": false,
+      "description": "PlayStation Plus Premium",
+      "category": "Gaming",
+      "icon": "\ud83d\udc7e"
+    },
+    "steam": {
+      "stock": 0,
+      "price_per_1k": 12.0,
+      "quality_rating": 5.0,
+      "trending": false,
+      "limited_edition": false,
+      "description": "Steam Premium Accounts",
+      "category": "Gaming",
+      "icon": "\ud83d\udcbb"
+    },
+    "hbo": {
+      "stock": 0,
+      "price_per_1k": 8.5,
+      "quality_rating": 4.6,
+      "trending": false,
+      "limited_edition": false,
+      "description": "HBO Max with Extras",
+      "category": "Entertainment",
+      "icon": "\ud83c\udfad"
+    },
+    "hulu": {
+      "stock": 0,
+      "price_per_1k": 8.0,
+      "quality_rating": 4.5,
+      "trending": false,
+      "limited_edition": false,
+      "description": "Hulu + Live TV",
+      "category": "Entertainment",
+      "icon": "\ud83d\udcfa"
+    },
+    "paramount": {
+      "stock": 0,
+      "price_per_1k": 8.0,
+      "quality_rating": 4.4,
+      "trending": false,
+      "limited_edition": false,
+      "description": "Paramount+ Combos",
+      "category": "Entertainment",
+      "icon": "\u2b50"
+    },
+    "amazon": {
+      "stock": 0,
+      "price_per_1k": 9.5,
+      "quality_rating": 4.8,
+      "trending": true,
+      "limited_edition": false,
+      "description": "Amazon Prime + Prime Video",
+      "category": "Shopping",
+      "icon": "\ud83d\udce6"
+    },
+    "ebay": {
+      "stock": 0,
+      "price_per_1k": 7.5,
+      "quality_rating": 4.3,
+      "trending": false,
+      "limited_edition": false,
+      "description": "eBay Premium Accounts",
+      "category": "Shopping",
+      "icon": "\ud83d\uded2"
+    },
+    "hotmail": {
+      "stock": 0,
+      "price_per_1k": 7.0,
+      "quality_rating": 4.9,
+      "trending": true,
+      "limited_edition": false,
+      "description": "Fresh Hotmail Combos",
+      "category": "Email",
+      "icon": "\ud83d\udce7"
+    },
+    "crunchyroll_vip": {
+      "stock": 0,
+      "price_per_1k": 14.0,
+      "quality_rating": 5.0,
+      "trending": false,
+      "limited_edition": true,
+      "description": "Crunchyroll VIP (LIMITED)",
+      "category": "Anime",
+      "icon": "\ud83d\udd25"
+    },
+    "nordvpn_premium": {
+      "stock": 0,
+      "price_per_1k": 15.0,
+      "quality_rating": 5.0,
+      "trending": false,
+      "limited_edition": true,
+      "description": "NordVPN Premium (LIMITED)",
+      "category": "VPN",
+      "icon": "\ud83d\udd12"
+    }
+  },
+  "logs": {
+    "private_logs_verified": {
+      "stock": 0,
+      "price_per_1k": 20.0,
+      "quality_rating": 5.0,
+      "trending": true,
+      "limited_edition": false,
+      "description": "\ud83d\udc8e Private Verified Logs",
+      "category": "Premium Logs",
+      "icon": "\ud83d\udd10"
+    },
+    "public_logs_fresh": {
+      "stock": 0,
+      "price_per_1k": 8.0,
+      "quality_rating": 4.5,
+      "trending": false,
+      "limited_edition": false,
+      "description": "Fresh Public Logs",
+      "category": "Public Logs",
+      "icon": "\ud83d\udccb"
+    },
+    "verified_2024": {
+      "stock": 0,
+      "price_per_1k": 25.0,
+      "quality_rating": 5.0,
+      "trending": true,
+      "limited_edition": true,
+      "description": "2024 Verified Logs (RARE)",
+      "category": "Premium Logs",
+      "icon": "\u2728"
+    }
+  },
+  "ulps": {
+    "high_quality_premium": {
+      "stock": 0,
+      "price_per_1k": 30.0,
+      "quality_rating": 5.0,
+      "trending": true,
+      "limited_edition": false,
+      "description": "\ud83c\udfc6 Premium Quality ULPs",
+      "category": "Ultra Premium",
+      "icon": "\ud83d\udc8e"
+    },
+    "high_quality": {
+      "stock": 0,
+      "price_per_1k": 25.0,
+      "quality_rating": 4.9,
+      "trending": false,
+      "limited_edition": false,
+      "description": "High Quality ULPs",
+      "category": "Premium",
+      "icon": "\ud83e\udd47"
+    },
+    "medium_quality": {
+      "stock": 0,
+      "price_per_1k": 15.0,
+      "quality_rating": 4.5,
+      "trending": false,
+      "limited_edition": false,
+      "description": "Medium Quality ULPs",
+      "category": "Standard",
+      "icon": "\ud83e\udd48"
+    },
+    "low_quality_budget": {
+      "stock": 0,
+      "price_per_1k": 8.0,
+      "quality_rating": 4.0,
+      "trending": false,
+      "limited_edition": false,
+      "description": "Budget ULPs",
+      "category": "Budget",
+      "icon": "\ud83d\udcb0"
+    }
+  },
+  "bundles": {
+    "streaming_ultimate": {
+      "items": [
+        "netflix",
+        "spotify",
+        "disney",
+        "hbo"
+      ],
+      "price": 199.99,
+      "discount_percent": 40,
+      "description": "\ud83c\udfac ULTIMATE STREAMING BUNDLE",
+      "icon": "\ud83c\udf1f"
+    },
+    "gaming_powerhouse": {
+      "items": [
+        "xbox",
+        "playstation",
+        "steam"
+      ],
+      "price": 249.99,
+      "discount_percent": 35,
+      "description": "\ud83c\udfae ULTIMATE GAMING BUNDLE",
+      "icon": "\ud83c\udfaf"
+    },
+    "vip_collection": {
+      "items": [
+        "crunchyroll_vip",
+        "nordvpn_premium",
+        "high_quality_premium"
+      ],
+      "price": 399.99,
+      "discount_percent": 50,
+      "description": "\ud83d\udc8e VIP EXCLUSIVE COLLECTION",
+      "icon": "\ud83d\udc51"
+    }
+  },
+  "flash_sales": [
+    {
+      "item": "netflix",
+      "discount": 0.3,
+      "start": "2026-04-06T06:33:39.229683",
+      "duration_hours": 24
+    },
+    {
+      "item": "xbox",
+      "discount": 0.25,
+      "start": "2026-04-06T06:33:39.229704",
+      "duration_hours": 12
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-04-06T06:33:39.229725",
+    "total_sales": 0,
+    "customer_satisfaction": 4.8
+  }
+}
